@@ -1,5 +1,5 @@
-﻿using ConsoleApplication2.Database;
-using ConsoleApplication2.Enums;
+﻿using SnowRentLibrary.Database;
+using SnowRentLibrary.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;

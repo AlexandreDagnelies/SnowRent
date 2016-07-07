@@ -114,9 +114,11 @@ C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu b
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WpfApplication1\obj\Debug\WpfApplication1.pdb
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WpfApplication1\bin\Debug\WpfApplication1.exe
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WpfApplication1\bin\Debug\ConsoleApplication2.dll
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WpfApplication1\bin\Debug\EntityFramework.dll
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WpfApplication1\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WpfApplication1\bin\Debug\Faker.dll
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WpfApplication1\bin\Debug\ConsoleApplication2.pdb
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WpfApplication1\bin\Debug\EntityFramework.xml
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WpfApplication1\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
@@ -151,49 +153,96 @@ C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu b
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WpfApplication1\bin\Debug\Newtonsoft.Json.dll
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WpfApplication1\bin\Debug\Newtonsoft.Json.xml
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WpfApplication1\bin\Debug\ClassLibrary.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WpfApplication1\bin\Debug\ClassLibrary.pdb
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\bin\Debug\ClassLibrary.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\bin\Debug\EntityFramework.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\bin\Debug\Faker.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\bin\Debug\MySql.Data.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\bin\Debug\ClassLibrary.pdb
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\bin\Debug\EntityFramework.xml
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\Views\Pages\NavigationWindows1.baml
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\Views\Pages\Page2.baml
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\Views\Pages\Page3.baml
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\MyUserControl\ClientListUserControl.g.cs
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\MyUserControl\ClientUserControl.g.cs
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\MyUserControl\ProductListUserControl.g.cs
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\MyUserControl\ProductUserControl.g.cs
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\Views\Pages\CustomersView.g.cs
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\Views\Pages\NavigationWindows1.g.cs
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\Views\Pages\Page2.g.cs
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\Views\Pages\Page3.g.cs
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\Views\ShopEnterView.g.cs
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\Views\Window1.g.cs
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\Views\WinNav.g.cs
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\MyUserControl\ClientListUserControl.baml
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\MyUserControl\ClientUserControl.baml
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\MyUserControl\ProductListUserControl.baml
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\MyUserControl\ProductUserControl.baml
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\Views\Pages\CustomersView.baml
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\Views\ShopEnterView.baml
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\Views\Window1.baml
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\Views\WinNav.baml
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\bin\Debug\ClassLibrary.dll
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\bin\Debug\EntityFramework.dll
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\bin\Debug\Faker.dll
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\bin\Debug\ClassLibrary.pdb
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\bin\Debug\EntityFramework.xml
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\Views\Pages\NavigationWindows1.baml
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\Views\Pages\Page2.baml
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\Views\Pages\Page3.baml
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\MyUserControl\ClientListUserControl.g.cs
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\MyUserControl\ClientUserControl.g.cs
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\MyUserControl\ProductListUserControl.g.cs
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\MyUserControl\ProductUserControl.g.cs
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\Views\Pages\CustomersView.g.cs
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\Views\Pages\NavigationWindows1.g.cs
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\Views\Pages\Page2.g.cs
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\Views\Pages\Page3.g.cs
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\Views\ShopEnterView.g.cs
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\Views\Window1.g.cs
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\Views\WinNav.g.cs
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\MyUserControl\ClientListUserControl.baml
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\MyUserControl\ClientUserControl.baml
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\MyUserControl\ProductListUserControl.baml
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\MyUserControl\ProductUserControl.baml
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\Views\Pages\CustomersView.baml
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\Views\ShopEnterView.baml
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\Views\Window1.baml
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\Views\WinNav.baml
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\test\MyLibrary\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\bin\Debug\WpfApplication1.exe.config
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\WpfApplication1.exe
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\WpfApplication1.pdb
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\bin\Debug\WpfApplication1.exe
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\bin\Debug\WpfApplication1.pdb
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\bin\Debug\ClassLibrary.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\bin\Debug\EntityFramework.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\bin\Debug\Newtonsoft.Json.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\bin\Debug\Faker.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\bin\Debug\ClassLibrary.pdb
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\bin\Debug\EntityFramework.xml
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\bin\Debug\Newtonsoft.Json.xml
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\Views\Pages\NavigationWindows1.baml
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\Views\Pages\Page2.baml
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\Views\Pages\Page3.baml
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\MyUserControl\ClientListUserControl.g.cs
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\MyUserControl\ClientUserControl.g.cs
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\MyUserControl\ProductListUserControl.g.cs
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\MyUserControl\ProductUserControl.g.cs
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\Views\Pages\CustomersView.g.cs
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\Views\Pages\NavigationWindows1.g.cs
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\Views\Pages\Page2.g.cs
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\Views\Pages\Page3.g.cs
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\Views\ShopEnterView.g.cs
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\Views\Window1.g.cs
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\Views\WinNav.g.cs
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\App.g.cs
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\MyUserControl\ClientListUserControl.baml
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\MyUserControl\ClientUserControl.baml
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\MyUserControl\ProductListUserControl.baml
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\MyUserControl\ProductUserControl.baml
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\Views\Pages\CustomersView.baml
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\Views\ShopEnterView.baml
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\Views\Window1.baml
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\Views\WinNav.baml
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\WpfApplication1.g.resources
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache

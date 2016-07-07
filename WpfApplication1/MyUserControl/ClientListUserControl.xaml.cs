@@ -1,4 +1,4 @@
-﻿using ConsoleApplication2.Shop;
+﻿using SnowRentLibrary.Entities;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;

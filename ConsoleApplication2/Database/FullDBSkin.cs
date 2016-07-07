@@ -1,5 +1,6 @@
-﻿using ConsoleApplication2.Enums;
-using ConsoleApplication2.Shop;
+﻿using SnowRentLibrary.Entities;
+using SnowRentLibrary.Enums;
+using SnowRentLibrary.Shop;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
@@ -7,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication2.Database
+namespace SnowRentLibrary.Database
 {
     [DbConfigurationType(typeof(MySql.Data.Entity.MySqlEFConfiguration))]
     class FullDBSkin : DbContext

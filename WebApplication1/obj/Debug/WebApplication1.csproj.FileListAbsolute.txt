@@ -3,6 +3,7 @@ C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu b
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WebApplication1\bin\WebApplication1.dll
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WebApplication1\bin\WebApplication1.pdb
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WebApplication1\bin\ConsoleApplication2.dll
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WebApplication1\bin\EntityFramework.dll
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WebApplication1\bin\EntityFramework.SqlServer.dll
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
@@ -19,6 +20,7 @@ C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu b
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WebApplication1\bin\System.Web.WebPages.Razor.dll
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WebApplication1\bin\WebGrease.dll
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WebApplication1\bin\Faker.dll
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WebApplication1\bin\ConsoleApplication2.pdb
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WebApplication1\bin\EntityFramework.xml
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WebApplication1\bin\EntityFramework.SqlServer.xml
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WebApplication1\bin\Newtonsoft.Json.xml
@@ -45,54 +47,103 @@ C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu b
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WebApplication1\bin\fr\System.Web.WebPages.Razor.resources.dll
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WebApplication1\obj\Debug\WebApplication1.pdb
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WebApplication1\bin\ClassLibrary.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\Ygritte est ce que tu baises\gadeleboura\Exemple Antoine\WebApplication1\bin\ClassLibrary.pdb
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\WebApplication1.dll.config
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\WebApplication1.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\WebApplication1.pdb
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\Antlr3.Runtime.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\ClassLibrary.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\EntityFramework.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\EntityFramework.SqlServer.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\Newtonsoft.Json.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\System.Net.Http.Formatting.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\System.Web.Helpers.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\System.Web.Http.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\System.Web.Http.WebHost.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\System.Web.Mvc.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\System.Web.Optimization.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\System.Web.Razor.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\System.Web.WebPages.Deployment.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\System.Web.WebPages.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\System.Web.WebPages.Razor.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\WebGrease.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\Faker.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\ClassLibrary.pdb
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\EntityFramework.xml
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\EntityFramework.SqlServer.xml
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\Newtonsoft.Json.xml
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\System.Net.Http.Formatting.xml
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\System.Web.Helpers.xml
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\System.Web.Http.xml
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\System.Web.Http.WebHost.xml
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\System.Web.Mvc.xml
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\System.Web.Optimization.xml
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\System.Web.Razor.xml
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\System.Web.WebPages.xml
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\System.Web.WebPages.Deployment.xml
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\System.Web.WebPages.Razor.xml
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\Antlr3.Runtime.pdb
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\fr\System.Net.Http.Formatting.resources.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\fr\System.Web.Helpers.resources.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\fr\System.Web.Http.resources.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\fr\System.Web.Http.WebHost.resources.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\fr\System.Web.Mvc.resources.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\fr\System.Web.Optimization.resources.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\fr\System.Web.Razor.resources.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\fr\System.Web.WebPages.resources.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\fr\System.Web.WebPages.Deployment.resources.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\bin\fr\System.Web.WebPages.Razor.resources.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\obj\Debug\WebApplication1.dll
-C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\WebApplication1.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\WebApplication1.pdb
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\EntityFramework.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\System.Web.Http.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\WebGrease.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\MySql.Data.Entity.EF6.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\Faker.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\EntityFramework.xml
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\System.Web.Http.xml
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\fr\System.Web.Http.resources.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\fr\System.Web.Razor.resources.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\ClassLibrary.dll
+C:\Users\nicolas\Documents\gadeleboura\Exemple Antoine\WebApplication1\bin\ClassLibrary.pdb
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\WebApplication1.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\WebApplication1.pdb
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\ClassLibrary.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\EntityFramework.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\System.Web.Http.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\WebGrease.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\MySql.Data.Entity.EF6.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\Faker.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\ClassLibrary.pdb
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\EntityFramework.xml
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\System.Web.Http.xml
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\fr\System.Web.Http.resources.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\fr\System.Web.Razor.resources.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\nicolas\Documents\Visual Studio 2015\MyLibrary\WebApplication1\obj\Debug\WebApplication1.pdb

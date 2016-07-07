@@ -1,14 +1,15 @@
-﻿using System;
+﻿using SnowRentLibrary.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace ConsoleApplication2.Shop
+namespace SnowRentLibrary.Entities
 {
     /// <summary>
     /// Describe an item that can be sold in a shop.
     /// </summary>
-    public abstract class Product : EntityBase
+    public class Product : EntityBase
     {
         #region Attributes
         //private Int32 id;

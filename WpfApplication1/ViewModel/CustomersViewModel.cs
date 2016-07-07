@@ -1,10 +1,9 @@
-﻿
-using ClassLibrary2.WebService;
-using ConsoleApplication2.AsyncTask;
-using ConsoleApplication2.Database;
-using ConsoleApplication2.Enums;
-using ConsoleApplication2.JSON;
-using ConsoleApplication2.Shop;
+﻿using ClassLibrary2.WebService;
+using SnowRentLibrary.AsyncTask;
+using SnowRentLibrary.Database;
+using SnowRentLibrary.Entities;
+using SnowRentLibrary.Enums;
+using SnowRentLibrary.JSON;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -35,7 +34,7 @@ namespace WpfApplication1.ViewModel
             this.customersView.clientsListUserControl.LoadItems(SetupClientList());
             this.SetupClientList();
             this.Populate();
-
+           
         }
         private async void Populate()
         {
@@ -45,7 +44,6 @@ namespace WpfApplication1.ViewModel
             Client apiResult;
             c1 = await webService1.Post(c1);
             apiResult = await webService1.Get(c1.Id);
-            String text = "";
 
             // Sandbox sb = new Sandbox();
             // sb.TestIt();

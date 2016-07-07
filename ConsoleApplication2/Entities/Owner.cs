@@ -1,9 +1,10 @@
-﻿using System;
+﻿using SnowRentLibrary.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace ConsoleApplication2.Shop
+namespace SnowRentLibrary.Shop
 {
     /// <summary>
     /// Describe owner of a shot.

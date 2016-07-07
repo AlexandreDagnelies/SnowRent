@@ -1,4 +1,4 @@
-﻿using ConsoleApplication2.Enums;
+﻿using SnowRentLibrary.Enums;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication2.Database
+namespace SnowRentLibrary.Database
 {
     [DbConfigurationType(typeof(MySql.Data.Entity.MySqlEFConfiguration))]
     public class MySQLManager<TEntity> : DbContext where TEntity : class

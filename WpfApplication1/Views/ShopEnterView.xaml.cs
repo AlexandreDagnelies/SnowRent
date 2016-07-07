@@ -11,7 +11,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
-using ConsoleApplication2.Shop;
+using SnowRentLibrary.Shop;
 using WpfApplication1.ViewModel;
 
 namespace WpfApplication1.Views

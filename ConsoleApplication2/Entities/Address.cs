@@ -1,10 +1,11 @@
-﻿using System;
+﻿using SnowRentLibrary.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication2.Shop
+namespace SnowRentLibrary.Shop
 {
     /// <summary>
     /// An address.

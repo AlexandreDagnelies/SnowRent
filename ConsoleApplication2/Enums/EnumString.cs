@@ -5,7 +5,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication2.Enums
+namespace SnowRentLibrary.Enums
 {
     public static class EnumString
     {

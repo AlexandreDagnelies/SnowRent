@@ -1,10 +1,12 @@
-﻿using System;
+﻿using SnowRentLibrary.Entities;
+using SnowRentLibrary.Shop;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 
-namespace ConsoleApplication2.Shop
+namespace SnowRentLibrary.Entities
 {
     /// <summary>
     /// Define globaly a shop user it will be a Client or an Owner.

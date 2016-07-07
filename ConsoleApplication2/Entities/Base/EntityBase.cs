@@ -1,4 +1,4 @@
-﻿using ConsoleApplication2.MyFaker;
+﻿using SnowRentLibrary.MyFaker;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -8,12 +8,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication2.Shop
+namespace SnowRentLibrary.Entities
 {
     public class EntityBase : INotifyPropertyChanged, IFakerLoader<EntityBase>
     {
-
-
         private int id;
 
         [Key]

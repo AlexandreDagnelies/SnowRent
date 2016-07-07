@@ -1,11 +1,11 @@
-﻿using ConsoleApplication2.MyFaker;
+﻿using SnowRentLibrary.MyFaker;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 
-namespace ConsoleApplication2.Shop
+namespace SnowRentLibrary.Entities
 {
     /// <summary>
     /// Describe a client which is a user that buy product in a shop.
