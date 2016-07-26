@@ -1,6 +1,8 @@
 ﻿using SnowRentLibrary.Entities;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 
@@ -9,10 +11,13 @@ namespace SnowRentLibrary.Entities
     /// <summary>
     /// Describe an item that can be sold in a shop.
     /// </summary>
+
+    [Table("products")]
     public class Product : EntityBase
     {
         #region Attributes
-        //private Int32 id;
+
+        private Int32 id;
         private Decimal price;
         private String name;
         #endregion
@@ -20,23 +25,26 @@ namespace SnowRentLibrary.Entities
         /// <summary>
         /// Id for of object in database.
         /// </summary>
-        //public Int32 Id
-        //{
-        //    get
-        //    {
-        //        return this.id;
-        //    }
+        [Key]
+        [Column("id")]
+        public Int32 Id
+        {
+            get
+            {
+                return this.id;
+            }
 
-        //    set
-        //    {
-        //        this.id = value;
-        //        this.OnPropertyChanged("Id");
-        //    }
-        //}
+            set
+            {
+                this.id = value;
+                this.OnPropertyChanged("Id");
+            }
+        }
 
         /// <summary>
         /// Object name.
         /// </summary>
+        [Column("name")]
         public String Name
         {
             get
@@ -54,6 +62,7 @@ namespace SnowRentLibrary.Entities
         /// <summary>
         /// Object cost all cost in it.
         /// </summary>
+         [Column("price")]
         public Decimal Price
         {
             get

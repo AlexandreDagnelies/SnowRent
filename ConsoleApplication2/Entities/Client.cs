@@ -12,11 +12,10 @@ namespace SnowRentLibrary.Entities
     /// </summary>
 
     [Table("clients")]
-    public class Client : ShopUser
+    public class Client : Users
     {
         #region Attributes
-        [Column("money")]
-        private Decimal money;
+     
         [Column("products")]
         private List<Product> products;
         #endregion
@@ -26,19 +25,7 @@ namespace SnowRentLibrary.Entities
         /// </summary>
         /// 
       
-        public Decimal Money
-        {
-            get
-            {
-                return this.money;
-            }
-
-            set
-            {
-                this.money = value;
-                this.OnPropertyChanged("Money");
-            }
-        }
+        
 
         public List<Product> Products
         {
@@ -57,19 +44,19 @@ namespace SnowRentLibrary.Entities
         #region Methods
         public override string ToString()
         {
-            return base.ToString() + " " + this.money;
+            return base.ToString() + " ";
         }
 
 
-       public new Client LoadSingleItem()
+       public Client LoadSingleItem()
         {
             Client result = new Client();
-            result.Id = Faker.NumberFaker.Number();
+           // result.Id = Faker.NumberFaker.Number();
             result.Name = Faker.NameFaker.Name();
             return result;
         }
 
-        public new List<Client> LoadMultipleItems()
+        public List<Client> LoadMultipleItems()
         {
             List<Client> result = new List<Client>();
             for (int i = 0; i < Faker.NumberFaker.Number(3, 20); i++)

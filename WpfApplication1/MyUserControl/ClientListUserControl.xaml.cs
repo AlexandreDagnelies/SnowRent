@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
@@ -14,6 +15,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Windows.Threading;
 
 namespace WpfApplication1.MyUserControl
 {
@@ -41,11 +43,15 @@ namespace WpfApplication1.MyUserControl
 
         public void LoadItems(List<Client> items)
         {
-            this.Clients.Clear();
-            foreach (var item in items)
+            Application.Current.Dispatcher.Invoke(DispatcherPriority.Background, new ThreadStart(delegate
             {
-                Clients.Add(item);
-            }
+                this.Clients.Clear();
+                foreach (var item in items)
+                {
+                    Clients.Add(item);
+                }
+            }));
+            
         }
     }
 }

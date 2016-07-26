@@ -1,4 +1,4 @@
-﻿using SnowRentLibrary.MyFaker;
+﻿
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -10,18 +10,9 @@ using System.Threading.Tasks;
 
 namespace SnowRentLibrary.Entities
 {
-    public class EntityBase : INotifyPropertyChanged, IFakerLoader<EntityBase>
+    public class  EntityBase : INotifyPropertyChanged
     {
-        private int id;
-
-        [Key]
-        [Column("id")]
-        public int Id
-        {
-            get { return id; }
-            set { id = value; }
-        }
-        
+       
         public event PropertyChangedEventHandler PropertyChanged;
 
         protected void OnPropertyChanged(string name)
@@ -33,21 +24,5 @@ namespace SnowRentLibrary.Entities
             }
         }
 
-        public EntityBase LoadSingleItem()
-        {
-            EntityBase result = new EntityBase();
-            result.Id = Faker.NumberFaker.Number();
-            return this;
-        }
-
-        public List<EntityBase> LoadMultipleItems()
-        {
-            List<EntityBase> result = new List<EntityBase>();
-            for (int i = 0; i < Faker.NumberFaker.Number(3, 20); i++)
-            {
-                result.Add(LoadSingleItem());
-            }
-            return result;
-        }
     }
 }

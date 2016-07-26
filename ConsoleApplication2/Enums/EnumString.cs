@@ -15,7 +15,8 @@ namespace SnowRentLibrary.Enums
             FieldInfo fieldInfo = type.GetField(value.ToString());
             StringValueAttribute[] attribs = fieldInfo.GetCustomAttributes(
                 typeof(StringValueAttribute), false) as StringValueAttribute[];
-            return attribs.Length > 0 ? attribs[0].StringValue : null;
+            String result = attribs.Length > 0 ? attribs[0].StringValue : null;
+            return result;
         }
     }
 }

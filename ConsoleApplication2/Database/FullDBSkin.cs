@@ -1,6 +1,6 @@
 ﻿using SnowRentLibrary.Entities;
 using SnowRentLibrary.Enums;
-using SnowRentLibrary.Shop;
+using SnowRentLibrary.Entities;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;

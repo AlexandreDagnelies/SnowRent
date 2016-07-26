@@ -11,6 +11,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows;
+using System.Windows.Documents;
 using System.Windows.Media;
 using System.Windows.Threading;
 using WpfApplication1.Views;
@@ -31,9 +32,14 @@ namespace WpfApplication1.ViewModel
         public CustomersViewModel(CustomersView customersView)
         {
             this.customersView = customersView;
-            this.customersView.clientsListUserControl.LoadItems(SetupClientList());
-            this.SetupClientList();
+            //this.customersView.clientsListUserControl.LoadItems(GetClientList());
+            //this.SetupClientList();
             this.Populate();
+            Task.Factory.StartNew(() =>
+            {
+                this.customersView.clientsListUserControl.LoadItems(this.GetClientList());
+            });
+            
            
         }
         private async void Populate()
@@ -41,10 +47,11 @@ namespace WpfApplication1.ViewModel
             WebServiceManager<Client> webService1 =
              new WebServiceManager<Client>(DataConnectionResource.LOCALAPI);
             Client c1 = new Client().LoadSingleItem();
+            
             Client apiResult;
             c1 = await webService1.Post(c1);
+            Console.WriteLine("l'id estlà ->>>" + c1.Id);
             apiResult = await webService1.Get(c1.Id);
-
             // Sandbox sb = new Sandbox();
             // sb.TestIt();
             // AsyncFactory facto = new AsyncFactory();
@@ -66,17 +73,39 @@ namespace WpfApplication1.ViewModel
             int a = 0;
             a++;*/
         }
-        private List<Client> SetupClientList()
+        private async void SetupClientList()
         {
-            Client client = new Client();
-            List<Client> result = client.LoadMultipleItems();
 
-            MySQLManager<Client> manager1 = new MySQLManager<Client>(DataConnectionResource.LOCALMYSQL);
-            manager1.Insert(result);
+            Client clientList = new Client();
+            List<Client> client = clientList.LoadMultipleItems();
+            //List<Client> result = clientList.LoadMultipleItems();
 
-            return result;
+           // Client client = new Client();
+            //List<Client> result = client.LoadMultipleItems();
+
+            //Via Local
+            //MySQLManager<Client> manager1 = new MySQLManager<Client>(DataConnectionResource.LOCALMYSQL);
+            //manager1.Insert(result);
+
+            //Via Api
+            WebServiceManager<Client> webService1 =
+            new WebServiceManager<Client>(DataConnectionResource.LOCALAPI);
+            List<Client> apiResult;
+            client = await webService1.Post(client);
+            //Console.WriteLine("l'id estlà ->>>" + client.Id);
+            apiResult = await webService1.Get();
         }
 
-       
+
+
+        private List<Client> GetClientList()
+        {
+            WebServiceManager<Client> webService1 =
+            new WebServiceManager<Client>(DataConnectionResource.LOCALAPI);
+
+            List<Client> apiResult = webService1.Get().Result as List<Client>;
+
+            return apiResult;
+        }
     }
 }

@@ -9,6 +9,7 @@ using System.Web.Http;
 
 namespace WebApplication1.Controllers.Base
 {
+
     public class BaseController<T> : ApiController where T : class
     {
         private MySQLManager<T> manager;

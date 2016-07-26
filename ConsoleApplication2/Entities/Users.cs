@@ -1,6 +1,9 @@
 ﻿using SnowRentLibrary.Entities;
+using SnowRentLibrary.MyFaker;
+using SnowRentLibrary.Entities;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
@@ -10,10 +13,12 @@ namespace SnowRentLibrary.Entities
     /// <summary>
     /// Define globaly a shop user it will be a Client or an Owner.
     /// </summary>
+
+   
     public abstract class Users : EntityBase
     {
         #region Attributes
-        //private Int32 id;
+        private Int32 id;
         private String name;
         private String surname;
         private Address address;
@@ -22,8 +27,10 @@ namespace SnowRentLibrary.Entities
         /// <summary>
         /// Database id.
         /// </summary>
-       //[Column("id")]
-        /*public Int32 Id
+       
+        [Key]
+        [Column("id")]
+       public Int32 Id
         {
             get
             {
@@ -35,7 +42,7 @@ namespace SnowRentLibrary.Entities
                 this.id = value;
                 this.OnPropertyChanged("Id");
             }
-        }*/
+       }
 
         /// <summary>
         /// Name of a shop user (Client or Owner).
@@ -93,6 +100,8 @@ namespace SnowRentLibrary.Entities
         {
             return this.name + " " + this.surname + " " + this.address;
         }
+
+        
         #endregion
     }
 }

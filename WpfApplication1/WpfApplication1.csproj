@@ -78,8 +78,12 @@
     <Compile Include="MyUserControl\ProductUserControl.xaml.cs">
       <DependentUpon>ProductUserControl.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ViewModel\AddressViewModel.cs" />
     <Compile Include="ViewModel\CustomersViewModel.cs" />
     <Compile Include="ViewModel\ShopEnterViewModel.cs" />
+    <Compile Include="Views\Pages\AddressView.xaml.cs">
+      <DependentUpon>AddressView.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Views\Pages\CustomersView.xaml.cs">
       <DependentUpon>CustomersView.xaml</DependentUpon>
     </Compile>
@@ -118,6 +122,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="MyUserControl\ProductUserControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\Pages\AddressView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

@@ -1,4 +1,5 @@
-﻿using SnowRentLibrary.Shop;
+﻿
+using SnowRentLibrary.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;

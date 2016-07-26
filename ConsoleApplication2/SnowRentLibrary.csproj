@@ -87,7 +87,7 @@
     <Compile Include="Entities\Owner.cs" />
     <Compile Include="Entities\Product.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Entities\ShopUser.cs" />
+    <Compile Include="Entities\Users.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
