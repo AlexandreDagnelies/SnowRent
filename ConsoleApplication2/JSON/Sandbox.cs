@@ -22,7 +22,7 @@ namespace SnowRentLibrary.JSON
             List<Client> client2Revert = JsonConvert.DeserializeObject<List<Client>>(convertClient2);
 
             //Client client3 = JsonConvert.DeserializeObject<Client>(convertClient);
-            String text = "text";
+            
         }
     }
 }

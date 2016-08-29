@@ -1,0 +1,14 @@
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\ConsoleApplication2\bin\Release\ClassLibrary.dll.config
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\ConsoleApplication2\bin\Release\ClassLibrary.dll
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\ConsoleApplication2\bin\Release\ClassLibrary.pdb
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\ConsoleApplication2\bin\Release\EntityFramework.dll
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\ConsoleApplication2\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\ConsoleApplication2\bin\Release\Faker.dll
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\ConsoleApplication2\bin\Release\MySql.Data.dll
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\ConsoleApplication2\bin\Release\mysql.data.entity.EF6.dll
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\ConsoleApplication2\bin\Release\Newtonsoft.Json.dll
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\ConsoleApplication2\bin\Release\EntityFramework.xml
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\ConsoleApplication2\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\ConsoleApplication2\bin\Release\Newtonsoft.Json.xml
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\ConsoleApplication2\obj\Release\ClassLibrary.dll
+C:\Users\alexandre\Documents\Visual Studio 2013\Projects\SnowRent\ConsoleApplication2\obj\Release\ClassLibrary.pdb
