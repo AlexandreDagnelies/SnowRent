@@ -81,6 +81,16 @@ namespace SnowRentLibrary.Entities
 
         #endregion
         #region Methods
+         public Product LoadSingleItem()
+         {
+
+             Product result = new Product();
+             result.Name = "SKI SOUL 7HD";
+             result.Price = 30;
+
+
+             return result;
+         }
         public override string ToString()
         {
             return this.name + " " + this.price;

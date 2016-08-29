@@ -36,19 +36,28 @@ namespace SnowRentLibrary.Database
         }
         public async Task<TEntity> Update(TEntity item)
         {
-            this.Entry<TEntity>(item);
+            await Task.Factory.StartNew(() =>
+                {
+                    this.Entry<TEntity>(item).State = EntityState.Modified;
+                });
+            
             await this.SaveChangesAsync();
             return item;
         }
         public async Task<IEnumerable<TEntity>> Update(IEnumerable<TEntity> items)
         {
-            foreach (var item in items)
+
+            await Task.Factory.StartNew(() =>
             {
-                this.Entry<TEntity>(item);
-            }
+                foreach (var item in items)
+                {
+                     this.Entry<TEntity>(item).State = EntityState.Modified;
+                }
+            });
             await this.SaveChangesAsync();
             return items;
         }
+
         public async Task<TEntity> Get(Int32 id)
         {
             return await this.DbSetT.FindAsync(id) as TEntity;

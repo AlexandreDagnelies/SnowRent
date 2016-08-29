@@ -17,8 +17,8 @@
             <RowDefinition/>
         </Grid.RowDefinitions>
 
-        <userControl:ClientListUserControl x:Name="clientsListUserControl" Grid.Row="1" />
-        <Button x:Name="navigation" Grid.Row="3" Content="Navigate" Click="navigation_Click" />
+        <userControl:ClientListUserControl x:Name="clientsListUserControl" Grid.Row="1" Margin="0,0,0,5" Grid.RowSpan="2" />
+        <Button x:Name="navigation" Grid.Row="3" Content="Add a customer" Click="navigation_Click" />
 
     </Grid>
 </Page>

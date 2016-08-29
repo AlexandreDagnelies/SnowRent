@@ -1,6 +1,5 @@
 ﻿using SnowRentLibrary.Entities;
 using SnowRentLibrary.Enums;
-using SnowRentLibrary.Entities;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;

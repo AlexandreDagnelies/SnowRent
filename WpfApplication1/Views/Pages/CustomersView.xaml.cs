@@ -38,9 +38,10 @@ namespace WpfApplication1.Views
             
         }
 
+        
         private void navigation_Click(object sender, System.Windows.RoutedEventArgs e)
         {
-            this.NavigationService.Navigate(new Page2());
+            this.NavigationService.Navigate(new AddCustomers());
             
         }
 
